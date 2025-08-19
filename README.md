@@ -1,4 +1,4 @@
-# sxc_attendance
+# Easeatten
 
 A new Flutter project.
 
